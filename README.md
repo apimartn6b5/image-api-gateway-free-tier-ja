@@ -2,7 +2,7 @@
 
 > **One OpenAI-compatible key, 300+ models** · image2.5 **$0.0085/image** · Seedance 2.0 Mini **$0.01056/sec** · LLM from **$0.0228 / M tokens** · $1 minimum top-up.
 
-**[料金を見る](https://go.apimart.ai/k-56d6be)** · **[APIキーを取得](https://go.apimart.ai/k-9fdce6)**
+**[料金を見る](https://go.apimart.ai/k-4bfa75)** · **[APIキーを取得](https://go.apimart.ai/k-9fdce6)**
 
 image-api-gateway-free-tier-ja は 1 つの `base_url` と 1 つのキーで 300+ モデルに接続します。USD 決済・従量課金・最低 $1 チャージ。
 
